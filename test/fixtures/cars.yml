@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  short_desc: MyString
+  full_desc: MyString
+  car_make: one
+  price: 1
+  image_url: MyString
+
+two:
+  short_desc: MyString
+  full_desc: MyString
+  car_make: two
+  price: 1
+  image_url: MyString
